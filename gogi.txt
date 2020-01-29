@@ -1,0 +1,1 @@
+this is file is generated to test merging process of branch "feature-a"
