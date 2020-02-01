@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is file is generated to test merging process of branch "feature-a"
-=======
-here is the new text file to test branch 'feature-1'
->>>>>>> feature-1
